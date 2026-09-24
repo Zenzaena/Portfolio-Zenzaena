@@ -71,7 +71,7 @@ export default function Home() {
             <div className="relative h-[430px] w-[320px] overflow-hidden rounded-[2rem] bg-[#0f2747] shadow-2xl sm:h-[500px] sm:w-[370px]">
 
               <img
-                src="/foto-zenzaena.jpg"
+                src="/foto-izen.jpeg"
                 alt="Zenzaena Atame Rissan"
                 className="h-full w-full object-cover"
               />
